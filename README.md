@@ -5,6 +5,7 @@ Firmware esp8266 4.55 and 5.05
 
 Working payloads for the moment: 
 - Mira+ Hen,
+- Hen only
 - Dumper,
 - Ftp,
 - Update blocker
