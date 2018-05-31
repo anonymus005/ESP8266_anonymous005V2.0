@@ -8,6 +8,8 @@ Working payloads for the moment:
 - Dumper,
 - Ftp,
 - Update blocker
+- AppToUSB
+- DB Backup
                   
 the firmawre will be updated with all payloads one time that they are converted for 505. Thank you 
 
